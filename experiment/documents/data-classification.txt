@@ -1,0 +1,8 @@
+Data Classification Policy
+
+All company data must be classified into one of four tiers: Public, Internal, Confidential, or Restricted.
+Data owners are responsible for assigning and reviewing classification levels annually.
+Confidential and Restricted data must be encrypted at rest and in transit.
+Access to Restricted data requires explicit approval from the data owner and the security team.
+Sharing Confidential or Restricted data with external parties requires a signed NDA and legal review.
+Classification labels must be applied to documents, repositories, and storage locations.

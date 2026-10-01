@@ -1,0 +1,8 @@
+Incident Response Policy
+
+Security incidents must be reported to the security team within one hour of detection.
+The security team will assess severity and assign an incident commander within 30 minutes.
+Critical incidents require immediate notification to the VP of Engineering and the legal team.
+All incident response actions must be documented in the incident log in real time.
+A post-incident review must be completed within five business days of resolution.
+Root cause analysis must identify contributing factors without assigning individual blame.

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "q01",
+    "question": "How many days per week can I work remotely?",
+    "notes": "Directly answered by remote-work policy"
+  },
+  {
+    "id": "q02",
+    "question": "What is the maximum meal reimbursement during travel?",
+    "notes": "Directly answered by expense policy"
+  },
+  {
+    "id": "q03",
+    "question": "Who needs to approve access to restricted data?",
+    "notes": "Directly answered by data-classification policy"
+  },
+  {
+    "id": "q04",
+    "question": "How long do I have to report a security incident?",
+    "notes": "Directly answered by incident-response policy"
+  },
+  {
+    "id": "q05",
+    "question": "Can I carry over unused PTO to next year?",
+    "notes": "Directly answered by time-off policy"
+  },
+  {
+    "id": "q06",
+    "question": "Do I need pre-approval for a $200 team dinner?",
+    "notes": "Partially supported. Expense policy covers meals during travel but team dinners are ambiguous"
+  },
+  {
+    "id": "q07",
+    "question": "Can a contractor work remotely full-time?",
+    "notes": "Partially supported. Remote policy mentions employees but not contractors"
+  },
+  {
+    "id": "q08",
+    "question": "What happens if I miss the expense submission deadline?",
+    "notes": "Weakly supported. Policy states the deadline but not the consequence of missing it"
+  },
+  {
+    "id": "q09",
+    "question": "What is the company's policy on using AI tools for hiring decisions?",
+    "notes": "Not covered by any document"
+  },
+  {
+    "id": "q10",
+    "question": "Can I negotiate a salary above the compensation band?",
+    "notes": "Weakly supported. Hiring policy mentions bands but not exceptions"
+  }
+]
